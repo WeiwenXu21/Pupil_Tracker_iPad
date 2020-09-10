@@ -1,10 +1,10 @@
 # Pupil_Tracker_iPad
-This is an old archive of my undergrad thesis project. This is meant to be an IOS application on iPad that helps initial screening of abnormal eye movement caused by stroke. The essential algorithm is for dealing with tracking pupil in real time with iPad back camera.
+This is an old archive of my undergrad thesis project. This is meant to be an IOS application on iPad that helps initial screening of abnormal eye movement caused by stroke. The essential algorithm is for tracking pupil in real time with iPad back camera.
 
-The full project files is too large so only the core algorithm code files related to the real-time image analysis are uploaded here.
+The full project file is too large so only the core algorithm code files related to the real-time image analysis are uploaded here.
 
 # OpenCV in IOS Application
-This project was done around 5 years ago before I got into ML/DL. Therefore, only traditional methods are used with OpenCV. The IOS development was conducted with Objective C and C++ was embedded to work with OpenCV.
+This project was done around 5 years ago before I got into ML/DL. Therefore, only traditional methods are used with OpenCV. The IOS development was conducted with Objective C and C++ was embedded inside to work with OpenCV.
 
 
 # Breakdown of Algorithm
